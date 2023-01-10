@@ -1,6 +1,4 @@
-
-
-<p align="center">
+ter"
   <img src="https://raw.githubusercontent.com/slundberg/shap/master/docs/artwork/shap_diagram.png" width="400" />
 </p>
 
